@@ -1,3 +1,5 @@
+<div align="center">
+
   <picture>
   <source
   srcset="https://github-readme-stats.vercel.app/api?username=niratori&show_icons=true&theme=shadow_red"
