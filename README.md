@@ -11,7 +11,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=niratori&show_icons=true" />
   </picture>
+</div>
 
+<p align = "center">
 <picture>
   <source
     srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=niratori&layout=compact&theme=shadow_red)"
@@ -23,3 +25,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niratori&layout=compact&theme=shadow_red" />
 </picture>
+</p>
