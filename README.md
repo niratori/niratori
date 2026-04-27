@@ -1,31 +1,31 @@
 <h1 align="center">👋 Olá, eu sou o Nouan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Student;Reverse+Engineering+Journey;Malware+Analysis+(beginner);Building+real+skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&center=true&vCenter=true&lines=Cybersecurity+Researcher;Pentesting+%26+Cloud+Security;Wireless+%26+Hardware+Hacking;Android+Security+Exploration" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Cybersecurity-0f172a?style=for-the-badge&color=00FF00" />
-  <img src="https://img.shields.io/badge/Status-Student%20in%20Lions%20Devs-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Deep%20Dive%20in%20Cyber-0f172a?style=for-the-badge&color=00A8FF" />
+  <img src="https://img.shields.io/badge/Status-Lions%20Dev%20Student-orange?style=for-the-badge&color=FF6400" />
 </p>
 
 ---
 
 ## 🧠 Sobre Mim
 
-Estou iniciando minha jornada em **Cibersegurança** com foco em entender como sistemas e programas funcionam por dentro. Atualmente, sou aluno da **LionsStartups**, onde estou desenvolvendo minha base em lógica e programação.
+Sou um entusiasta de **Cibersegurança** focado em entender as vulnerabilidades além da superfície. Atualmente, estudo na **LionsDevs**, onde aprimoro minha lógica de programação e aprendo JavaScript.
 
-Não busco apenas usar ferramentas; meu objetivo é compreender o funcionamento real por trás de cada processo.
+Meu interesse vai além do software; busco compreender a segurança em nível de hardware, comunicações sem fio e sistemas móveis, integrando esses conhecimentos com arquiteturas modernas em Nuvem.
 
 ---
 
-## 🎯 Foco Atual
+## 🎯 Estudos & Foco
 
-- 🔍 **Engenharia Reversa:** Introdução ao Ghidra e análise de binários.
-- 🧠 **Fundamentos de Memória:** Estudos iniciais sobre Stack e Heap.
-- 💻 **Lógica de Programação:** JavaScript (LionsDevs) & Python.
-- ☁️ **Cloud Security:** Primeiros passos em segurança de infraestrutura.
-- 🧩 **Engenharia Social:** Interesse no fator humano da segurança.
+- 🛡️ **Pentesting & Cloud:** Testes de invasão em aplicações web e proteção de infraestruturas escaláveis (AWS/Azure).
+- 📡 **Wireless Hacking:** Estudo de protocolos de rede sem fio, análise de pacotes e vulnerabilidades em redes Wi-Fi.
+- 📱 **Android Security:** Exploração de vulnerabilidades em apps, análise de permissões e segurança do ecossistema mobile.
+- 🛠️ **Hardware Hacking:** Curiosidade técnica em entender como dispositivos físicos podem ser explorados e protegidos.
+- 💻 **Automation:** Desenvolvimento de scripts em **Node.js** e **Python** para automação de tarefas de segurança.
 
 ---
 
@@ -33,23 +33,26 @@ Não busco apenas usar ferramentas; meu objetivo é compreender o funcionamento 
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=linux,python,javascript,git,github,vscode" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,nodejs,python,javascript,git,github" height="40"/>
   </p>
   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" style="margin-right: 15px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/960px-Ghidra_logo.svg.png" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" height="40" style="margin-right: 15px;"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" style="margin-right: 15px;"/>
+    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" height="40" style="margin-right: 15px;"/>
   </p>
 </div>
 
 ---
 
-## 📂 Projetos & Estudos
+## 📂 Projetos & Práticas
 
-🚧 **Em construção | Aprendendo na prática:**
+🚧 **Hands-on Labs:**
 
-- 🔬 **Binary Analysis:** Laboratórios iniciais com Ghidra.
-- 🧠 **Lógica e Algoritmos:** Repositório de exercícios do curso LionsDevs.
-- 🛡 **CTFs & Labs:** Práticas em ambientes controlados (iniciante).
+- 📡 **Network Recon:** Scripts personalizados para auditoria de redes e monitoramento de tráfego.
+- ☁️ **Cloud Hardening:** Laboratórios de configuração de políticas de segurança e IAM.
+- 🛡️ **TryHackMe:** Trilhas ativas em diversas áreas.
 
 ---
 
@@ -64,14 +67,14 @@ Não busco apenas usar ferramentas; meu objetivo é compreender o funcionamento 
 
 ## 🎯 Objetivo Profissional
 
-Evoluir constantemente até me tornar um profissional de Segurança da Informação capaz de:
-- Entender sistemas em baixo nível e analisar comportamentos de softwares.
-- Atuar com foco em **Segurança Defensiva & Ofensiva e Infraestrutura**.
-- Contribuir para a resiliência tecnológica de empresas e startups.
+Me tornar um especialista multidisciplinar capaz de realizar auditorias de segurança em diversos níveis (Hardware, Software e Cloud), focando em:
+- Garantir a resiliência de sistemas complexos e dispositivos IoT.
+- Automatizar processos de segurança através de código sólido e escalável.
+- Atuar como ponte entre o desenvolvimento e a segurança ofensiva/defensiva.
 
 ---
 
 ## 📡 Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/nouan/
-- **GitHub:** https://github.com/niratori
+- **LinkedIn:** [linkedin.com/in/nouan](https://www.linkedin.com/in/nouan/)
+- **GitHub:** [github.com/niratori](https://github.com/niratori)
