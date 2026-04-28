@@ -36,7 +36,7 @@ Meu interesse vai além do software; busco compreender a segurança em nível de
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,nodejs,python,javascript,git,github" height="40"/>
   </p>
   <p>
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=ghidra,kalilinux,wireshark,docker,ngrok,android,metasploit,burpsuite,nmap" height="40" style="margin-right: 15px;"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=kalilinux,wireshark,ghidra,metasploit,android,nmap,docker,burpsuite,ngrok" height="40" style="margin-right: 15px;"/>
   </p>
 </div>
 
@@ -48,15 +48,15 @@ Meu interesse vai além do software; busco compreender a segurança em nível de
 
 - 📡 **Network Recon:** Scripts personalizados para auditoria de redes e monitoramento de tráfego.
 - ☁️ **Cloud Hardening:** Laboratórios de configuração de políticas de segurança e IAM.
-- 🛡️ **TryHackMe:** Trilhas ativas em diversas áreas.
+- 🛡️ **TryHackMe:** Diversas trilhas ativas em áreas de Red & Blue Teaming.
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=niratori&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niratori&layout=compact&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=niratori&show_icons=true&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niratori&layout=compact&theme=transparent"/>
 </p>
 
 ---
