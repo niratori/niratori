@@ -33,14 +33,10 @@ Meu interesse vai além do software; busco compreender a segurança em nível de
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,nodejs,python,javascript,git,github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,nodejs,python,javascript,git,github" height="40"/>
   </p>
   <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" style="margin-right: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" height="40" style="margin-right: 15px;"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" style="margin-right: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" height="40" style="margin-right: 15px;"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=ghidra,kalilinux,wireshark,docker,ngrok,android,metasploit,burpsuite,nmap" height="40" style="margin-right: 15px;"/>
   </p>
 </div>
 
