@@ -55,8 +55,8 @@ Meu interesse vai além do software; busco compreender a segurança em nível de
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=niratori&show_icons=true&theme=transparent"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niratori&layout=compact&theme=transparent"/>
+  <img height="160em" alt="niratori's Github Stats" src="https://github-readme-stats-one-ruby-31.vercel.app/api?username=niratori&show_icons=true&theme=transparent"/>
+  <img height="160em" alt="niratori's Github Top Langs" src="https://github-readme-stats-one-ruby-31.vercel.app/api/top-langs/?username=niratori&layout=compact&theme=transparent"/>
 </p>
 
 ---
