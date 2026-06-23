@@ -97,6 +97,13 @@ Me tornar um especialista multidisciplinar capaz de realizar auditorias de segur
         <strong>SYWP</strong>
       </a>
     </td>
+    <!-- CERTIFICADO 4 -->
+    <td align="center" valign="top">
+      <a href="https://solyd.com.br/verificar/L8duIuB7VS" target="_blank">
+        <img height="100em" alt="Solyd SYCP Certificate" src="https://github.com/user-attachments/assets/76d807c9-3b7d-4b00-a4d8-b7f260d7d79d"><br>
+        <strong>SYCP</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
