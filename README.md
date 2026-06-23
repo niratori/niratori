@@ -25,7 +25,7 @@ Meu interesse vai além do software; busco compreender a segurança em nível de
 - 📡 **Wireless Hacking:** Estudo de protocolos de rede sem fio, análise de pacotes e vulnerabilidades em redes Wi-Fi.
 - 📱 **Android Security:** Exploração de vulnerabilidades em apps, análise de permissões e segurança do ecossistema mobile.
 - 🛠️ **Hardware Hacking:** Curiosidade técnica em entender como dispositivos físicos podem ser explorados e protegidos.
-- 💻 **Automation:** Desenvolvimento de scripts em **Node.js** e **Python** para automação de tarefas de segurança.
+- 💻 **Automation:** Desenvolvimento de scripts em **Python** e outras linguagens para automação de tarefas de segurança.
 
 ---
 
@@ -67,6 +67,40 @@ Me tornar um especialista multidisciplinar capaz de realizar auditorias de segur
 - Garantir a resiliência de sistemas complexos e dispositivos IoT.
 - Automatizar processos de segurança através de código sólido e escalável.
 - Atuar como ponte entre o desenvolvimento e a segurança ofensiva/defensiva.
+
+---
+
+## 🎖️ Certificados
+
+<!--START_SECTION:badges-->
+
+<table align="center">
+  <tr>
+    <!-- CERTIFICADO 1 -->
+    <td align="center" valign="top">
+      <a href="https://solyd.com.br/verificar/js4leM43jd" target="_blank">
+        <img height="100em" alt="Solyd SYH2 Certificate" src="https://github.com/user-attachments/assets/ab480398-db2e-4a11-babf-6e0a39d2afed"><br>
+        <strong>SYH2</strong>
+      </a>
+    </td>
+    <!-- CERTIFICADO 2 -->
+    <td align="center" valign="top">
+      <a href="https://solyd.com.br/verificar/KyvereD2bw" target="_blank">
+        <img height="100em" alt="Solyd SYAP Certificate" src="https://github.com/user-attachments/assets/58bf076d-1d80-4773-a59f-c29fb3006ee4"><br>
+        <strong>SYAP</strong>
+      </a>
+    </td>
+    <!-- CERTIFICADO 3 -->
+    <td align="center" valign="top">
+      <a href="https://solyd.com.br/verificar/L8duIuB7VS" target="_blank">
+        <img height="100em" alt="Solyd SYWP Certificate" src="https://github.com/user-attachments/assets/679ce284-86fa-4968-ab26-3b463dbacdc4"><br>
+        <strong>SYWP</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--END_SECTION:badges-->
 
 ---
 
