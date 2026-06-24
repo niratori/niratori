@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Nouan</h1>
+<h1 align="center">👋 Hi, I am Nouan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&center=true&vCenter=true&lines=Cybersecurity+Researcher;Pentesting+%26+Cloud+Security;Wireless+%26+Hardware+Hacking;Android+Security+Exploration" />
@@ -11,25 +11,25 @@
 
 ---
 
-## 🧠 Sobre Mim
+## 🧠 About Me
 
-Sou um entusiasta de **Cibersegurança** focado em entender as vulnerabilidades além da superfície. Atualmente, estudo na **LionsDevs**, onde aprimoro minha lógica de programação e aprendo JavaScript.
+I am a **Cybersecurity** enthusiast focused on understanding vulnerabilities beneath the surface. I am currently studying at **LionsDevs**, where I am enhancing my programming logic and learning JavaScript.
 
-Meu interesse vai além do software; busco compreender a segurança em nível de hardware, comunicações sem fio e sistemas móveis, integrando esses conhecimentos com arquiteturas modernas em Nuvem.
-
----
-
-## 🎯 Estudos & Foco
-
-- 🛡️ **Pentesting & Cloud:** Testes de invasão em aplicações web e proteção de infraestruturas escaláveis (AWS/Azure).
-- 📡 **Wireless Hacking:** Estudo de protocolos de rede sem fio, análise de pacotes e vulnerabilidades em redes Wi-Fi.
-- 📱 **Android Security:** Exploração de vulnerabilidades em apps, análise de permissões e segurança do ecossistema mobile.
-- 🛠️ **Hardware Hacking:** Curiosidade técnica em entender como dispositivos físicos podem ser explorados e protegidos.
-- 💻 **Automation:** Desenvolvimento de scripts em **Python** e outras linguagens para automação de tarefas de segurança.
+My interest goes beyond software; I seek to comprehend security at the hardware level, wireless communications, and mobile systems, integrating this knowledge with modern Cloud architectures.
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+## 🎯 Studies & Focus
+
+- 🛡️ **Pentesting & Cloud:** Penetration testing in web applications and securing scalable infrastructures (AWS/Azure).
+- 📡 **Wireless Hacking:** Studying wireless network protocols, packet analysis, and Wi-Fi network vulnerabilities.
+- 📱 **Android Security:** Exploring vulnerabilities in apps, permission analysis, and mobile ecosystem security.
+- 🛠️ **Hardware Hacking:** Technical curiosity in understanding how physical devices can be exploited and protected.
+- 💻 **Automation:** Developing scripts in **Python** and other languages to automate security tasks.
+
+---
+
+## ⚙️ Technologies & Tools
 
 <div align="center">
   <p>
@@ -42,17 +42,17 @@ Meu interesse vai além do software; busco compreender a segurança em nível de
 
 ---
 
-## 📂 Projetos & Práticas
+## 📂 Projects & Labs
 
 🚧 **Hands-on Labs:**
 
-- 📡 **Network Recon:** Scripts personalizados para auditoria de redes e monitoramento de tráfego.
-- ☁️ **Cloud Hardening:** Laboratórios de configuração de políticas de segurança e IAM.
-- 🛡️ **TryHackMe:** Diversas trilhas ativas em áreas de Red & Blue Teaming.
+- 📡 **Network Recon:** Custom scripts for network auditing and traffic monitoring.
+- ☁️ **Cloud Hardening:** Lab environments for configuring security policies and IAM.
+- 🛡️ **TryHackMe:** Active pathways across Red & Blue Teaming.
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p align="center">
   <img height="160em" alt="niratori's Github Stats" src="https://github-readme-stats-one-ruby-31.vercel.app/api?username=niratori&show_icons=true&theme=transparent"/>
@@ -61,16 +61,16 @@ Meu interesse vai além do software; busco compreender a segurança em nível de
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Professional Goal
 
-Me tornar um especialista multidisciplinar capaz de realizar auditorias de segurança em diversos níveis (Hardware, Software e Cloud), focando em:
-- Garantir a resiliência de sistemas complexos e dispositivos IoT.
-- Automatizar processos de segurança através de código sólido e escalável.
-- Atuar como ponte entre o desenvolvimento e a segurança ofensiva/defensiva.
+To become a multidisciplinary specialist capable of performing security audits across multiple levels (Hardware, Software, and Cloud), focusing on:
+- Ensuring the resilience of complex systems and IoT devices.
+- Automating security processes through solid and scalable code.
+- Serving as a bridge between development and offensive/defensive security.
 
 ---
 
-## 🎖️ Certificados
+## 🎖️ Certificates
 
 <!--START_SECTION:badges-->
 
@@ -79,28 +79,28 @@ Me tornar um especialista multidisciplinar capaz de realizar auditorias de segur
     <!-- CERTIFICADO 1 -->
     <td align="center" valign="top">
       <a href="https://solyd.com.br/verificar/js4leM43jd" target="_blank">
-        <img height="100em" alt="Solyd SYH2 Certificate" src="https://github.com/user-attachments/assets/ab480398-db2e-4a11-babf-6e0a39d2afed"><br>
+        <img height="100em" alt="Solyd SYH2 Certificate" src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_syh2_logo.webp"><br>
         <strong>SYH2</strong>
       </a>
     </td>
     <!-- CERTIFICADO 2 -->
     <td align="center" valign="top">
       <a href="https://solyd.com.br/verificar/KyvereD2bw" target="_blank">
-        <img height="100em" alt="Solyd SYAP Certificate" src="https://github.com/user-attachments/assets/58bf076d-1d80-4773-a59f-c29fb3006ee4"><br>
+        <img height="100em" alt="Solyd SYAP Certificate" src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_syap_logo.webp"><br>
         <strong>SYAP</strong>
       </a>
     </td>
     <!-- CERTIFICADO 3 -->
     <td align="center" valign="top">
       <a href="https://solyd.com.br/verificar/L8duIuB7VS" target="_blank">
-        <img height="100em" alt="Solyd SYWP Certificate" src="https://github.com/user-attachments/assets/679ce284-86fa-4968-ab26-3b463dbacdc4"><br>
+        <img height="100em" alt="Solyd SYWP Certificate" src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sywp_logo.webp"><br>
         <strong>SYWP</strong>
       </a>
     </td>
     <!-- CERTIFICADO 4 -->
     <td align="center" valign="top">
       <a href="https://solyd.com.br/verificar/L8duIuB7VS" target="_blank">
-        <img height="100em" alt="Solyd SYCP Certificate" src="https://github.com/user-attachments/assets/76d807c9-3b7d-4b00-a4d8-b7f260d7d79d"><br>
+        <img height="100em" alt="Solyd SYCP Certificate" src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp"><br>
         <strong>SYCP</strong>
       </a>
     </td>
@@ -111,7 +111,13 @@ Me tornar um especialista multidisciplinar capaz de realizar auditorias de segur
 
 ---
 
-## 📡 Contato
+## 📡 Contact
 
-- **LinkedIn:** [linkedin.com/in/nouan](https://www.linkedin.com/in/nouan/)
-- **GitHub:** [github.com/niratori](https://github.com/niratori)
+<div align="left">
+  <a href="mailto:nouancristiandzulinski@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<div align="left">
+  <a href="https://linkedin.com/in/nouan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
