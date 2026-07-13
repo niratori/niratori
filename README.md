@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I am Nouan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&center=true&vCenter=true&lines=Cybersecurity+Researcher;Pentesting+%26+Cloud+Security;Wireless+%26+Hardware+Hacking;Android+Security+Exploration" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=CC0000&center=true&vCenter=true&lines=Cybersecurity+Researcher;Pentesting+%26+Cloud+Security;Wireless+%26+Hardware+Hacking;Android+Security+Exploration" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Deep%20Dive%20in%20Cyber-0f172a?style=for-the-badge&color=00A8FF" />
-  <img src="https://img.shields.io/badge/Status-Lions%20Dev%20Student-orange?style=for-the-badge&color=FF6400" />
+  <img src="https://img.shields.io/badge/Status-Offensive-a60000?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/-%26-6f42c1?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/Defensive-007bff?style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/Status-Lions%20Dev%20Student-orange?style=for-the-badge&color=ff4400" />
 </p>
 
 ---
@@ -49,15 +49,6 @@ My interest goes beyond software; I seek to comprehend security at the hardware 
 - 📡 **Network Recon:** Custom scripts for network auditing and traffic monitoring.
 - ☁️ **Cloud Hardening:** Lab environments for configuring security policies and IAM.
 - 🛡️ **TryHackMe:** Active pathways across Red & Blue Teaming.
-
----
-
-## 📊 Statistics
-
-<p align="center">
-  <img height="160em" alt="niratori's Github Stats" src="https://github-readme-stats-one-ruby-31.vercel.app/api?username=niratori&show_icons=true&theme=transparent"/>
-  <img height="160em" alt="niratori's Github Top Langs" src="https://github-readme-stats-one-ruby-31.vercel.app/api/top-langs/?username=niratori&layout=compact&theme=transparent"/>
-</p>
 
 ---
 
