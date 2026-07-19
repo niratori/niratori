@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Offensive-a60000?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/-%26-6f42c1?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/Defensive-007bff?style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/Offensive-a60000?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/-%26-6f42c1?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/Defensive-007bff?style=for-the-badge" height="40" />
   <img src="https://img.shields.io/badge/Status-Lions%20Dev%20Student-orange?style=for-the-badge&color=ff4400" />
 </p>
 
