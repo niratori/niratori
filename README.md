@@ -90,7 +90,7 @@ To become a multidisciplinary specialist capable of performing security audits a
     </td>
     <!-- CERTIFICADO 4 -->
     <td align="center" valign="top">
-      <a href="https://solyd.com.br/verificar/L8duIuB7VS" target="_blank">
+      <a href="https://solyd.com.br/verificar/ymjHFqMzQc" target="_blank">
         <img height="100em" alt="Solyd SYCP Certificate" src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp"><br>
         <strong>SYCP</strong>
       </a>
