@@ -1,31 +1,34 @@
 <h1 align="center">👋 Hi, I am Nouan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CC0000&center=true&vCenter=true&lines=Cybersecurity+Researcher;Pentesting+%26+Cloud+Security;Wireless+%26+Hardware+Hacking;Android+Security+Exploration" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=CC0000&center=true&vCenter=true&width=650&lines=Cybersecurity+Practitioner;Pentesting+%26+Cloud+Security;Web+%E2%80%A2+Wireless+%E2%80%A2+Hardware;Building+Sicarius" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Offensive-a60000?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/-%26-6f42c1?style=for-the-badge" height="40" /><img src="https://img.shields.io/badge/Defensive-007bff?style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/Status-Lions%20Dev%20Student-orange?style=for-the-badge&color=ff4400" />
+  <img src="https://img.shields.io/badge/Status-Lifelong%20Learner-orange?style=for-the-badge&color=D9D9D9" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Cybersecurity** enthusiast focused on understanding vulnerabilities beneath the surface. I am currently studying at **LionsDevs**, where I am enhancing my programming logic and learning JavaScript.
+I am a **Cybersecurity Practitioner** passionate about offensive security, vulnerability research, and secure system design.
 
-My interest goes beyond software; I seek to comprehend security at the hardware level, wireless communications, and mobile systems, integrating this knowledge with modern Cloud architectures.
+My primary interests include **Web Security**, **Wireless Security**, **Hardware Hacking**, and **Cloud Security**, where I continuously build hands-on projects and practical labs to deepen my understanding of modern attack and defense techniques.
+
+I enjoy transforming theory into practice by developing security tools, automating workflows, and exploring how systems can be analyzed, exploited, and hardened.
 
 ---
 
-## 🎯 Studies & Focus
+## 🎯 Areas of Interest
 
-- 🛡️ **Pentesting & Cloud:** Penetration testing in web applications and securing scalable infrastructures (AWS/Azure).
-- 📡 **Wireless Hacking:** Studying wireless network protocols, packet analysis, and Wi-Fi network vulnerabilities.
-- 📱 **Android Security:** Exploring vulnerabilities in apps, permission analysis, and mobile ecosystem security.
-- 🛠️ **Hardware Hacking:** Technical curiosity in understanding how physical devices can be exploited and protected.
-- 💻 **Automation:** Developing scripts in **Python** and other languages to automate security tasks.
+- 🛡️ **Pentesting:** Web application security, vulnerability assessment and offensive methodologies.
+- ☁️ **Cloud Security:** Identity, infrastructure hardening and cloud environments.
+- 📡 **Wireless Security:** Wi-Fi protocols, packet analysis and wireless attacks.
+- 🛠️ **Hardware Hacking:** Embedded systems, hardware analysis and physical security.
+- 🌐 **Web Security:** Authentication, OWASP Top 10 and secure web applications.
+- 💻 **Automation:** Security tooling with Python and JavaScript.
 
 ---
 
@@ -33,31 +36,38 @@ My interest goes beyond software; I seek to comprehend security at the hardware 
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,nodejs,python,javascript,git,github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,nodejs,python,c,javascript,git,github" height="40"/>
   </p>
   <p>
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=kalilinux,wireshark,ghidra,metasploit,android,nmap,docker,burpsuite,ngrok" height="40" style="margin-right: 15px;"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=kalilinux,wireshark,ghidra,metasploit,android,nmap,docker,burpsuite,terraform,ngrok" height="40" style="margin-right: 15px;"/>
   </p>
 </div>
 
 ---
 
-## 📂 Projects & Labs
+## 📂 Featured Projects
 
-🚧 **Hands-on Labs:**
+🚧 **Sicarius:**
+A web-based vulnerability assessment platform powered by OWASP ZAP, designed to automate web security scans and simplify vulnerability analysis.
 
-- 📡 **Network Recon:** Custom scripts for network auditing and traffic monitoring.
-- ☁️ **Cloud Hardening:** Lab environments for configuring security policies and IAM.
-- 🛡️ **TryHackMe:** Active pathways across Red & Blue Teaming.
+## 🧪 Labs
+
+🛡️ **TryHackMe Labs:**
+Hands-on labs covering offensive security, privilege escalation, web exploitation and Active Directory.
+
+📡 **Network Recon Toolkit:**
+Python scripts for host discovery, service enumeration and network auditing.
+
+☁️ **Cloud Security Labs:**
+AWS-based environments focused on IAM, hardening and infrastructure security.
 
 ---
 
-## 🎯 Professional Goal
+## 🎯 Career Goal
 
-To become a multidisciplinary specialist capable of performing security audits across multiple levels (Hardware, Software, and Cloud), focusing on:
-- Ensuring the resilience of complex systems and IoT devices.
-- Automating security processes through solid and scalable code.
-- Serving as a bridge between development and offensive/defensive security.
+My goal is to pursue a career in **Offensive Security**, specializing in **Pentesting**, **Cloud Security**, and **Malware Research**.
+
+I strive to develop practical solutions, contribute to security-focused projects, and continuously improve my technical skills through hands-on experience and real-world challenges.
 
 ---
 
@@ -111,4 +121,3 @@ To become a multidisciplinary specialist capable of performing security audits a
   <a href="https://linkedin.com/in/nouan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
